@@ -1,0 +1,8 @@
+
+a = 5
+b = 6
+d = a
+for i in range(0, a):
+    d = d + a
+
+print(d)
